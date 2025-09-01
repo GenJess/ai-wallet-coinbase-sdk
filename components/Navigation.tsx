@@ -30,6 +30,9 @@ export const Navigation = () => {
                   />
                 </svg>
               </Link>
+              <Link href="/stockflow">
+                <span className="text-white ml-4 mt-1">StockFlow</span>
+              </Link>
               <Link
                 href="https://docs.cdp.coinbase.com/mpc-wallet/docs/quickstart"
                 target="_blank"
